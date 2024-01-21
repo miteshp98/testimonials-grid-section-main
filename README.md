@@ -2,6 +2,9 @@
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/1cbd07a9-aad5-4a48-b143-7a8e0f130661)
+
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,14 +31,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/9511619c-3881-4487-aab1-6db2bbc16296)
+![csscode](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/757419ed-f160-49e3-914f-13b04f1bda33)
+
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/testimonials-grid-section-main)
+- Live Site URL: [live site URL](https://miteshp98.github.io/testimonials-grid-section-main/)
 
 ## My process
 
