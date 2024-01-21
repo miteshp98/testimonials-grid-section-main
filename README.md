@@ -28,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/9511619c-3881-4487-aab1-6db2bbc16296)
+![csscode](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/757419ed-f160-49e3-914f-13b04f1bda33)
+
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
