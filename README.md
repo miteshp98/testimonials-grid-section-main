@@ -2,6 +2,9 @@
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+![mobile](https://github.com/miteshp98/testimonials-grid-section-main/assets/145320555/1cbd07a9-aad5-4a48-b143-7a8e0f130661)
+
+
 ## Table of contents
 
 - [Overview](#overview)
